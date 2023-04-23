@@ -199,7 +199,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/flte/proprietary/vendor/lib/libmmqjpeg_codec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpeg_codec.so \
     vendor/samsung/flte/proprietary/vendor/lib/libqomx_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_core.so \
     vendor/samsung/flte/proprietary/vendor/lib/libqomx_jpegenc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegenc.so \
-    vendor/samsung/flte/proprietary/vendor/lib/libsensirion_f_5.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensirion_f_5.so \
+    vendor/samsung/flte/proprietary/vendor/lib/libsensirion_h_2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensirion_h_2.so \
     vendor/samsung/flte/proprietary/vendor/lib/libvdis.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvdis.so \
     vendor/samsung/flte/proprietary/vendor/bin/mpdecision:$(TARGET_COPY_OUT_VENDOR)/bin/mpdecision \
     vendor/samsung/flte/proprietary/vendor/firmware/bcm4335_V0111.0559.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm4335_V0111.0559.hcd \
