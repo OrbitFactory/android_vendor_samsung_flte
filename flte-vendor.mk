@@ -118,7 +118,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/flte/proprietary/vendor/lib/D13QS_libchromatix_imx135_uhd_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/D13QS_libchromatix_imx135_uhd_video.so \
     vendor/samsung/flte/proprietary/vendor/lib/D13QS_libchromatix_imx135_zslshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/D13QS_libchromatix_imx135_zslshot.so \
     vendor/samsung/flte/proprietary/vendor/lib/hw/camera.vendor.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.msm8974.so \
-    vendor/samsung/flte/proprietary/vendor/lib/hw/nfc_nci.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/nfc_nci.msm8974.so \
     vendor/samsung/flte/proprietary/vendor/lib/hw/sensorhubs.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensorhubs.msm8974.so \
     vendor/samsung/flte/proprietary/vendor/lib/hw/sensors.vendor.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.vendor.msm8974.so \
     vendor/samsung/flte/proprietary/vendor/lib/libTsAe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTsAe.so \
